@@ -8,3 +8,4 @@ for (let i = 0; i < saludo.length; i++) {
 }
 
 // ¿Cuántas veces se ha ejecutado la línea 7 al hacer node ex2.js? ¿Por qué?
+// Se ejecuta 7 veces, porque se ejecuta la i++ hasta completar la frase completa.
